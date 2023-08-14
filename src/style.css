@@ -1,0 +1,33 @@
+body {
+	background: #ff839c;
+	height: 100vh;
+	margin: auto;
+}
+
+svg {
+	display: block;
+	margin: auto;
+}
+
+#rim {
+	fill: #383838;
+  }
+  
+  #face {
+	fill: #f4f3ed;
+  }
+  
+  #markings {
+	stroke: #3f3f3f;
+  }
+  
+  #hours,
+  #minutes,
+  #seconds {
+	fill: #0c070c;
+  }
+  
+  #seconds {
+	stroke: none;
+	fill: #ff00ff;
+  }
